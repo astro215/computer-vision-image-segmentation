@@ -1,4 +1,4 @@
-### Image Segmentation Experiential Learning
+### Image Segmentation 
 
 This repository contains code for an image segmentation project focusing on segmenting cat images to accurately identify and separate cats from their backgrounds. The project explores various techniques including basic image processing, thresholding, clustering algorithms, and deep learning-based segmentation.
 
